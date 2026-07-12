@@ -15,7 +15,7 @@ body{
 
 /* Navigation */
 nav{
-    background:#0d6efd;
+    background:#A569BD;
     padding:15px;
     text-align:center;
 }
@@ -29,19 +29,19 @@ nav a{
 }
 
 nav a:hover{
-    color:yellow;
+    color:pink;
 }
 
 /* Headings */
 h1{
     text-align:center;
-    color:#0d6efd;
+    color:#A569BD;
     margin-top:20px;
 }
 
 h2{
    text-align: center;
-    color:#0d6efd;
+    color:#A569BD;
     margin:20px 0 10px;
 }
 
@@ -70,11 +70,14 @@ section{
 img{
     display:block;
     margin:20px auto;
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    border:4px solid #0d6efd;
-}
+    width:220px;
+    height:220px;
+    border-radius:20%;
+    border:4px solid #A569BD;
+object-fit: cover;
+box-shadow: 0 10px 30px
+rgba(0,0,0,0.2);
+}.
 
 /* Lists */
 ul{
@@ -87,7 +90,7 @@ li{
 
 /* Buttons */
 button{
-    background:#0d6efd;
+    background:#A569BD;
     color:white;
     border:none;
     padding:10px 20px;
@@ -123,7 +126,7 @@ table, th, td{
 }
 
 th{
-    background:#0d6efd;
+    background:#A569BD;
     color:white;
 }
 
@@ -152,7 +155,7 @@ textarea{
 
 /* Footer */
 footer{
-    background:#0d6efd;
+    background:#A569BD;
     color:white;
     text-align:center;
     padding:15px;
