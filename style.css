@@ -28,8 +28,14 @@ nav a{
     font-weight:bold;
 }
 
+/* General links */
+a {
+    color: #A569BD; 
+    text-decoration: none;
+}
+
 nav a:hover{
-    color:pink;
+    color:dark purple;
 }
 
 /* Headings */
