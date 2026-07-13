@@ -76,9 +76,9 @@ section{
 img{
     display:block;
     margin:20px auto;
-    width:350px;
-    height:400px;
-max-width: 90%
+    width:450px;
+    height:500px;
+max-width: 95%
     border-radius:20%;
 object-fit: cover;
 box-shadow: 0 10px 30px
